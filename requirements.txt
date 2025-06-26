@@ -1,0 +1,3 @@
+pip install fastapi uvicorn python-dotenv beautifulsoup4 selenium webdriver-manager openai httpx nest_asyncio
+
+# copy and paste in bash or terminal to install the required libraries.
