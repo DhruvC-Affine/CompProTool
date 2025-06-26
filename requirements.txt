@@ -7,5 +7,6 @@ webdriver-manager
 openai 
 httpx 
 nest_asyncio
+jinja2
 
 # copy and paste in bash or terminal to install the required libraries.
